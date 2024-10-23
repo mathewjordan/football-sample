@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://mathewjordan.github.io/football-sample
+
+# Sitemaps
+Sitemap: https://mathewjordan.github.io/football-sample/sitemap.xml
