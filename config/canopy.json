@@ -4,7 +4,8 @@
   "featured": [
     "https://api.dc.library.northwestern.edu/api/v2/works/43b8121f-a79b-4c17-94b6-169abe598253?as=iiif",
     "https://api.dc.library.northwestern.edu/api/v2/works/546f2876-29a3-4e3d-8131-41ac1f22369d?as=iiif",
-    "https://api.dc.library.northwestern.edu/api/v2/works/55fd32fd-2b3f-49df-94cd-b1ceb487c641?as=iiif"
+    "https://api.dc.library.northwestern.edu/api/v2/works/55fd32fd-2b3f-49df-94cd-b1ceb487c641?as=iiif",
+    "https://api.dc.library.northwestern.edu/api/v2/works/be4e5440-b8c0-4869-b3b3-d053f52bc12d?as=iiif"
   ],
   "theme": {
     "defaultTheme": "light",
