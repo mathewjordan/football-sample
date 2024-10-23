@@ -1,7 +1,10 @@
 {
   "collection": "https://api.dc.library.northwestern.edu/api/v2/search?query=(football)%20AND%20(visibility:Public)%20AND%20(subject.label:Northwestern+Wildcats+(Football%20team))&as=iiif&size=500&collectionLabel=Football",
   "metadata": ["Subject", "Genre"],
-  "featured": ["https://api.dc.library.northwestern.edu/api/v2/works/43b8121f-a79b-4c17-94b6-169abe598253?as=iiif"],
+  "featured": [
+    "https://api.dc.library.northwestern.edu/api/v2/works/43b8121f-a79b-4c17-94b6-169abe598253?as=iiif",
+    "https://api.dc.library.northwestern.edu/api/v2/works/546f2876-29a3-4e3d-8131-41ac1f22369d?as=iiif"
+  ],
   "theme": {
     "defaultTheme": "light",
     "accentColor": "iris"
